@@ -1,0 +1,17 @@
+{
+  "name": "pizza_legends",
+  "version": "1.0.0",
+  "description": "Become a Pizza Legend with html, css and javascript.",
+  "main": "dist/main.js",
+  "scripts": {
+    "watch": "parcel watch ./assets/scripts/main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.9.3"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.3"
+  }
+}

@@ -1,0 +1,1 @@
+{"mappings":";;AAAA,wBAAwB","sources":["assets/scripts/main.js"],"sourcesContent":["// import main SASS file\r\nimport '../styles/scss/main.scss'"],"names":[],"version":3,"file":"main.js.map","sourceRoot":"../"}
